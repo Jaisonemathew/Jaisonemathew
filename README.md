@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Jaisonemathew<br>- 👀 I’m interested in Software development,gaming and watching movies<br>- 🌱 I’m currently doing Bachelors degree in Computer Applications
+👋 Hi, I’m @Jaisonemathew<br>- 👀 I’m interested in Software development,gaming and watching movies<br>- 🌱 I have completed my bachelor's degree in computer applicationd
 
 
 # 💻 Tech Stack:
